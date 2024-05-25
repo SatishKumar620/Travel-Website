@@ -1,4 +1,5 @@
 Travel Website Landing Page
+
 Welcome to the Travel Website Landing Page repository! This project showcases a landing page designed to inspire and assist travelers in planning their next adventure.
 
 About the Project
@@ -23,10 +24,9 @@ git clone https://github.com/yourusername/travel-website-landing-page.git
 <code> cd travel-website-landing-page</code>
 
 3.Open the index.html file in your browser to view the landing page.
-Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests to help improve the project.
 
-Contributing
+
+Contributing:
 Contributions are welcome! Feel free to fork the repository and submit pull requests to help improve the project.
 
 Contact
